@@ -1,2 +1,7 @@
-main article img {width: 200px;}
-h1 {text-align:center;}
+  .row {
+  display: flex;
+}
+.column {
+  flex: 1.1%;
+  padding: 50px;
+}
