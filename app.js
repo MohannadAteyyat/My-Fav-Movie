@@ -1,3 +1,4 @@
+
 var movieName= prompt('Hello, please choose your fav will smith movie name Focus or Hitch or Hancock');
 
 while(movieName !== 'Focus'&& movieName !== 'Hitch' && movieName!== 'Hancock'){
@@ -22,3 +23,6 @@ var imagesNumber= prompt('How many image do you want?');
 for(var i=0 ; i < imagesNumber; i++){
   document.write(userChoose);
 }
+
+
+
