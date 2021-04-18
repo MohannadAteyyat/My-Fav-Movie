@@ -1,7 +1,47 @@
-  .row {
-  display: flex;
+body {background-color:#D6D9E4 }
+
+
+header p {
+		font-size: 25px
+		}
+
+	
+		header h1,
+		h2 {
+			text-align: center
+      
+		}
+
+		header h1,
+		h2 {
+			color: #AC7DF0
+		}
+
+		header nav ul li {
+			display: inline-block;
+			padding: 20px
+      
+      
+		}
+    header nav ul li a {text-decoration:none;
+    }
+nav {font-size: 30px;
+margin:30px;
+
 }
-.column {
-  flex: 1.1%;
-  padding: 50px;
-}
+
+#pargraphone{
+  color: #528EC4;}
+ .class  {color: #AC7DF0;}
+
+
+
+ *{box-sizing: border-box}
+ .clm img {
+   float: left;
+   width:50%;
+   padding:3px;
+ }
+ .clm img {
+   height:500px;
+ }

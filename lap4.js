@@ -3,6 +3,7 @@ console.log('Think mathmatacly and solve this:')
 var theNumber=8;
 var theNumber=7;
 console.log(theNumber+theNumber)
+
 var grade=prompt('please type your overall grade here from 100');
 if (grade <= 49) {document.write ('<h1>' + 'Sorry You failed you have to retake the exam' + '</h1>' ) 
 document.write ( '<img src="https://www.fastweb.com/uploads/article_photo/photo/2036449/crop635w_horizontalcropfailSmall.jpg">')
